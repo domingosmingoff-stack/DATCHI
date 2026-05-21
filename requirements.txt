@@ -1,0 +1,17 @@
+flask==2.3.3
+flask-cors==4.0.0
+python-nmap==0.0.1
+nmap==0.0.1
+requests==2.31.0
+groq==0.4.1
+fpdf2==2.7.0
+sqlalchemy==2.0.21
+python-dotenv==1.0.0
+twilio==8.10.0
+bcrypt==4.0.1
+pyjwt==2.8.1
+stripe==5.15.0
+apscheduler==3.10.4
+gunicorn==21.2.0
+pytest==7.4.2
+python-dateutil==2.8.2
